@@ -1,9 +1,8 @@
 # IFTS-MELA-ml-lab
 Repository per il corso di laboratorio di Deep Learning della scuola IFTS-MELA.
 
-## Parte Laboratio II (Rudy Semola)
-NOTA: Slides (qui o drive?) + Nootebooks
-NOTA2: Come vogliamo impostare la lezione del TEST?
+## Parte Laboratio II 
+NOTA: Slides + Nootebooks
 
 ### Lezioni
 #### Dati sequenziali, RNN (Pretrained), Keras tool, NLP & Time-series (4 ore)
